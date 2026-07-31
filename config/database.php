@@ -1,4 +1,5 @@
 <?php
+// Added database connection comments
 
 $host = "localhost";
 $port = "5432";
