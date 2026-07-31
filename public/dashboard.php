@@ -1,3 +1,4 @@
+// Dashboard page
 <?php
 session_start();
 
